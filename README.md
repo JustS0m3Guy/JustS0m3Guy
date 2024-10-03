@@ -7,7 +7,7 @@ Hi there! I'm Owl, a passionate Student and aspiring programer from Hungary. Wel
 
 - I'm currently learning software engineering.
 - I love exploring new technologies and developing software solutions.
-- I hold a Cambridge C2 certification and am studying at Kőbányai Szent László Gimnázium.
+- I hold a Cambridge C2 certification and am studying at SDU.
 - How to reach me: balazs200428@gmail.com
 
 ## Technologies & Tools
